@@ -1,4 +1,6 @@
 <h2>  Hi my name is Nhu Y or you can call me ZenyB 👋
+<img src="![image](https://github.com/ZenyB/ZenyB/assets/106144398/5d0a181e-ec33-4bb0-83c8-b983c3d90435)
+" width="20">
 <img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRis0wpxYPB9zNFqLAaWYAqvtnT1svEuhVMxUsxFWKoEg&s" width="230">
 🌱 <h4><em>I’m currently learning Software Engineer at <a href="https://www.uit.edu.vn/">University of Information Technology</a>
 </em></h4>
