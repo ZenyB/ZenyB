@@ -13,7 +13,7 @@
 ```javascript
 const zeny_bui = {
   code: [Javascript, Typescript, HTML, CSS, Java, C#, Python],
-  tools: [React Native, Android Studio, NextJS, Winform],
+  tools: [React Native, Android Studio, NextJS, WinForms],
   architecture: ["design pattern"],
 }
 ```
