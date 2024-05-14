@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi my name is Nhu Y or you can call me ZenyB 👋
+![image](https://github.com/ZenyB/ZenyB/assets/106144398/b1b7899b-ecc2-4f5a-ac5b-4775b9cd8047)
+
 
 <!--
 **ZenyB/ZenyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
