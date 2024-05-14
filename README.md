@@ -8,7 +8,7 @@
 <br/>
 📫 Contact me via email: nyb1711@gmail.com
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let me introduce myself further...
+### <img src="https://w7.pngwing.com/pngs/492/922/png-transparent-jedi-avatar-user-profile-user-account-royaltyfree.png" width="50"> Let me introduce myself further...
 
 ```javascript
 const zeny_bui = {
