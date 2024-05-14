@@ -12,11 +12,9 @@
 
 ```javascript
 const zeny_bui = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Java, Python],
   tools: [React Native, Android Studio, NextJS],
   architecture: ["design pattern"],
-  
 }
 ```
 
