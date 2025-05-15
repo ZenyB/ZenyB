@@ -12,9 +12,10 @@
 
 ```javascript
 const zeny_bui = {
-  code: [Javascript, Typescript, HTML, CSS, Java, C#, Python],
-  tools: [React Native, Android Studio, NextJS, WinForms],
-  architecture: ["design pattern"],
+  code: [Kotlin, Javascript, Typescript, HTML, CSS, Java, C#, Python],
+  framework: [React Native, NextJS]
+  tools: [Android Studio, Visual Studio Code, Git, Source Tree],
+  architecture: ["design pattern", "clean architecture", "mvvm"],
 }
 ```
 
